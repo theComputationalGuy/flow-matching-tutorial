@@ -1,3 +1,9 @@
+CITATION.cff
+CODE_OF_CONDUCT.md
+CODEOWNERS
+LICENSE
+WAIVER
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
